@@ -1,0 +1,10 @@
+Shutdown CPU to pass sentry. Use timer to reboot. 
+
+synergies
+- slow charge weapon + good but transient defense / stun enemy
+- tar enemy + fire
+- slow / stun enemy + dodgable weapon
+- 边退边打 / 边进边打
+- friendly fire + instant defense
+
+an enemy that dodges. You have to aim at their adjecent cell! 
